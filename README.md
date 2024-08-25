@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sharaf8.
+- 👀 I’m interested in USA.
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: niyozovsharaf@gmail.com
